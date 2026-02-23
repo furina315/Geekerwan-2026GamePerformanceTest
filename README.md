@@ -6,4 +6,4 @@ If you encounter decompression issues, please download Bandizip from the reposit
 ---
 
 Other way:
-- MoePan link:
+- MoePan link: https://pan.moe/s/bDMzHQ
