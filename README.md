@@ -13,3 +13,4 @@ If you encounter decompression issues, please download Bandizip from the reposit
 
 ## Other way:
 - MoePan link: https://pan.moe/s/bDMzHQ
+- [Issue2](https://github.com/furina315/Geekerwan-2026GamePerformanceTest/issues/2)
